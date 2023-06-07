@@ -23,7 +23,7 @@ function menu_intern_exam(){
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <h1>hello</h1>
+    <h1>hello ki khobor</h1>
    <div>
    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
